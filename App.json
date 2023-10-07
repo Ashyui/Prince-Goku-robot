@@ -132,3 +132,6 @@
          "description": "Dont load these modules cause they shit, space separation",
          "required": false,
          "value": "rss"
+            "DEL_CMDS": {
+         "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",
+         "value": "True"
